@@ -1,0 +1,7 @@
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\Basic Windows Service\bin\Debug\Basic Windows Service.exe.config
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\Basic Windows Service\bin\Debug\Basic Windows Service.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\Basic Windows Service\bin\Debug\Basic Windows Service.pdb
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\Basic Windows Service\obj\Debug\Basic Windows Service.csproj.AssemblyReference.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\Basic Windows Service\obj\Debug\Basic Windows Service.csproj.CoreCompileInputs.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\Basic Windows Service\obj\Debug\Basic Windows Service.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\Basic Windows Service\obj\Debug\Basic Windows Service.pdb

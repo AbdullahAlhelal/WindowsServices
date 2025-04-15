@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows Services", "Windows Services\Windows Services.csproj", "{B5ADF29A-9DBA-4035-AC0B-066D846D2031}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic Windows Service", "Basic Windows Service\Basic Windows Service.csproj", "{DB96BEE8-EA6C-40BC-B609-17F251A877FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstWinService", "Basic Windows Service\MyFirstWinService.csproj", "{DB96BEE8-EA6C-40BC-B609-17F251A877FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

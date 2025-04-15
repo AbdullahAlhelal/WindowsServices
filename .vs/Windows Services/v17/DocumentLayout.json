@@ -3,16 +3,38 @@
   "WorkspaceRootPath": "D:\\Trraining c#\\CSharpProgrammingLevel2\\Windows Services\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB96BEE8-EA6C-40BC-B609-17F251A877FE}|Basic Windows Service\\Basic Windows Service.csproj|d:\\trraining c#\\csharpprogramminglevel2\\windows services\\basic windows service\\myfirstwinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB96BEE8-EA6C-40BC-B609-17F251A877FE}|Basic Windows Service\\Basic Windows Service.csproj|solutionrelative:basic windows service\\myfirstwinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB96BEE8-EA6C-40BC-B609-17F251A877FE}|Basic Windows Service\\Basic Windows Service.csproj|d:\\trraining c#\\csharpprogramminglevel2\\windows services\\basic windows service\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB96BEE8-EA6C-40BC-B609-17F251A877FE}|Basic Windows Service\\Basic Windows Service.csproj|solutionrelative:basic windows service\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB96BEE8-EA6C-40BC-B609-17F251A877FE}|Basic Windows Service\\Basic Windows Service.csproj|d:\\trraining c#\\csharpprogramminglevel2\\windows services\\basic windows service\\myfirstwinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DB96BEE8-EA6C-40BC-B609-17F251A877FE}|Basic Windows Service\\Basic Windows Service.csproj|solutionrelative:basic windows service\\myfirstwinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DB96BEE8-EA6C-40BC-B609-17F251A877FE}|Basic Windows Service\\MyFirstWinService.csproj|d:\\trraining c#\\csharpprogramminglevel2\\windows services\\basic windows service\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB96BEE8-EA6C-40BC-B609-17F251A877FE}|Basic Windows Service\\MyFirstWinService.csproj|solutionrelative:basic windows service\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5ADF29A-9DBA-4035-AC0B-066D846D2031}|Windows Services\\Windows Services.csproj|d:\\trraining c#\\csharpprogramminglevel2\\windows services\\windows services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB96BEE8-EA6C-40BC-B609-17F251A877FE}|Basic Windows Service\\BasicWindowsService.csproj|d:\\trraining c#\\csharpprogramminglevel2\\windows services\\basic windows service\\projectinstaller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB96BEE8-EA6C-40BC-B609-17F251A877FE}|Basic Windows Service\\BasicWindowsService.csproj|solutionrelative:basic windows service\\projectinstaller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB96BEE8-EA6C-40BC-B609-17F251A877FE}|Basic Windows Service\\BasicWindowsService.csproj|d:\\trraining c#\\csharpprogramminglevel2\\windows services\\basic windows service\\myfirstwinservice.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB96BEE8-EA6C-40BC-B609-17F251A877FE}|Basic Windows Service\\BasicWindowsService.csproj|solutionrelative:basic windows service\\myfirstwinservice.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MyFirstWinService||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB96BEE8-EA6C-40BC-B609-17F251A877FE}|Basic Windows Service\\BasicWindowsService.csproj|d:\\trraining c#\\csharpprogramminglevel2\\windows services\\basic windows service\\myfirstwinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB96BEE8-EA6C-40BC-B609-17F251A877FE}|Basic Windows Service\\BasicWindowsService.csproj|solutionrelative:basic windows service\\myfirstwinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB96BEE8-EA6C-40BC-B609-17F251A877FE}|Basic Windows Service\\BasicWindowsService.csproj|d:\\trraining c#\\csharpprogramminglevel2\\windows services\\basic windows service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB96BEE8-EA6C-40BC-B609-17F251A877FE}|Basic Windows Service\\BasicWindowsService.csproj|solutionrelative:basic windows service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADF29A-9DBA-4035-AC0B-066D846D2031}|Windows Services\\Windows Services.csproj|D:\\Trraining c#\\CSharpProgrammingLevel2\\Windows Services\\windows services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5ADF29A-9DBA-4035-AC0B-066D846D2031}|Windows Services\\Windows Services.csproj|solutionrelative:windows services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB96BEE8-EA6C-40BC-B609-17F251A877FE}|Basic Windows Service\\MyFirstWinService.csproj|d:\\trraining c#\\csharpprogramminglevel2\\windows services\\basic windows service\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +44,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,32 +60,95 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MyFirstWinService.cs",
-              "DocumentMoniker": "D:\\Trraining c#\\CSharpProgrammingLevel2\\Windows Services\\Basic Windows Service\\MyFirstWinService.cs",
-              "RelativeDocumentMoniker": "Basic Windows Service\\MyFirstWinService.cs",
-              "ToolTip": "D:\\Trraining c#\\CSharpProgrammingLevel2\\Windows Services\\Basic Windows Service\\MyFirstWinService.cs",
-              "RelativeToolTip": "Basic Windows Service\\MyFirstWinService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "DocumentIndex": 1,
+              "Title": "ProjectInstaller.cs [Design]",
+              "DocumentMoniker": "D:\\Trraining c#\\CSharpProgrammingLevel2\\Windows Services\\Basic Windows Service\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "Basic Windows Service\\ProjectInstaller.cs",
+              "ToolTip": "D:\\Trraining c#\\CSharpProgrammingLevel2\\Windows Services\\Basic Windows Service\\ProjectInstaller.cs [Design]",
+              "RelativeToolTip": "Basic Windows Service\\ProjectInstaller.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T18:11:33.303Z",
+              "WhenOpened": "2025-04-15T20:27:59.167Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyFirstWinService",
+              "DocumentMoniker": "D:\\Trraining c#\\CSharpProgrammingLevel2\\Windows Services\\Basic Windows Service\\MyFirstWinService.csproj",
+              "RelativeDocumentMoniker": "Basic Windows Service\\MyFirstWinService.csproj",
+              "ToolTip": "D:\\Trraining c#\\CSharpProgrammingLevel2\\Windows Services\\Basic Windows Service\\MyFirstWinService.csproj",
+              "RelativeToolTip": "Basic Windows Service\\MyFirstWinService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-15T20:27:34.061Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Trraining c#\\CSharpProgrammingLevel2\\Windows Services\\Basic Windows Service\\Program.cs",
+              "RelativeDocumentMoniker": "Basic Windows Service\\Program.cs",
+              "ToolTip": "D:\\Trraining c#\\CSharpProgrammingLevel2\\Windows Services\\Basic Windows Service\\Program.cs",
+              "RelativeToolTip": "Basic Windows Service\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:27:09.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectInstaller.Designer.cs",
+              "DocumentMoniker": "D:\\Trraining c#\\CSharpProgrammingLevel2\\Windows Services\\Basic Windows Service\\ProjectInstaller.Designer.cs",
+              "RelativeDocumentMoniker": "Basic Windows Service\\ProjectInstaller.Designer.cs",
+              "ToolTip": "D:\\Trraining c#\\CSharpProgrammingLevel2\\Windows Services\\Basic Windows Service\\ProjectInstaller.Designer.cs",
+              "RelativeToolTip": "Basic Windows Service\\ProjectInstaller.Designer.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:27:07.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MyFirstWinService.cs [Design]",
               "DocumentMoniker": "D:\\Trraining c#\\CSharpProgrammingLevel2\\Windows Services\\Basic Windows Service\\MyFirstWinService.cs",
               "RelativeDocumentMoniker": "Basic Windows Service\\MyFirstWinService.cs",
               "ToolTip": "D:\\Trraining c#\\CSharpProgrammingLevel2\\Windows Services\\Basic Windows Service\\MyFirstWinService.cs [Design]",
               "RelativeToolTip": "Basic Windows Service\\MyFirstWinService.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T18:10:53.707Z",
+              "WhenOpened": "2025-04-15T20:26:53.456Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "MyFirstWinService.Designer.cs",
+              "DocumentMoniker": "D:\\Trraining c#\\CSharpProgrammingLevel2\\Windows Services\\Basic Windows Service\\MyFirstWinService.Designer.cs",
+              "RelativeDocumentMoniker": "Basic Windows Service\\MyFirstWinService.Designer.cs",
+              "ToolTip": "D:\\Trraining c#\\CSharpProgrammingLevel2\\Windows Services\\Basic Windows Service\\MyFirstWinService.Designer.cs",
+              "RelativeToolTip": "Basic Windows Service\\MyFirstWinService.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:26:12.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectInstaller.cs",
+              "DocumentMoniker": "D:\\Trraining c#\\CSharpProgrammingLevel2\\Windows Services\\Basic Windows Service\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "Basic Windows Service\\ProjectInstaller.cs",
+              "ToolTip": "D:\\Trraining c#\\CSharpProgrammingLevel2\\Windows Services\\Basic Windows Service\\ProjectInstaller.cs",
+              "RelativeToolTip": "Basic Windows Service\\ProjectInstaller.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwB8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:10:56.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Trraining c#\\CSharpProgrammingLevel2\\Windows Services\\Windows Services\\Program.cs",
               "RelativeDocumentMoniker": "Windows Services\\Program.cs",
