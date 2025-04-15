@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Trraining c#\\CSharpProgrammingLevel2\\Windows Services\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DB96BEE8-EA6C-40BC-B609-17F251A877FE}|Basic Windows Service\\Basic Windows Service.csproj|d:\\trraining c#\\csharpprogramminglevel2\\windows services\\basic windows service\\myfirstwinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB96BEE8-EA6C-40BC-B609-17F251A877FE}|Basic Windows Service\\Basic Windows Service.csproj|solutionrelative:basic windows service\\myfirstwinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB96BEE8-EA6C-40BC-B609-17F251A877FE}|Basic Windows Service\\Basic Windows Service.csproj|d:\\trraining c#\\csharpprogramminglevel2\\windows services\\basic windows service\\myfirstwinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB96BEE8-EA6C-40BC-B609-17F251A877FE}|Basic Windows Service\\Basic Windows Service.csproj|solutionrelative:basic windows service\\myfirstwinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B5ADF29A-9DBA-4035-AC0B-066D846D2031}|Windows Services\\Windows Services.csproj|d:\\trraining c#\\csharpprogramminglevel2\\windows services\\windows services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5ADF29A-9DBA-4035-AC0B-066D846D2031}|Windows Services\\Windows Services.csproj|solutionrelative:windows services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,14 +33,43 @@
               "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MyFirstWinService.cs",
+              "DocumentMoniker": "D:\\Trraining c#\\CSharpProgrammingLevel2\\Windows Services\\Basic Windows Service\\MyFirstWinService.cs",
+              "RelativeDocumentMoniker": "Basic Windows Service\\MyFirstWinService.cs",
+              "ToolTip": "D:\\Trraining c#\\CSharpProgrammingLevel2\\Windows Services\\Basic Windows Service\\MyFirstWinService.cs",
+              "RelativeToolTip": "Basic Windows Service\\MyFirstWinService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:11:33.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyFirstWinService.cs [Design]",
+              "DocumentMoniker": "D:\\Trraining c#\\CSharpProgrammingLevel2\\Windows Services\\Basic Windows Service\\MyFirstWinService.cs",
+              "RelativeDocumentMoniker": "Basic Windows Service\\MyFirstWinService.cs",
+              "ToolTip": "D:\\Trraining c#\\CSharpProgrammingLevel2\\Windows Services\\Basic Windows Service\\MyFirstWinService.cs [Design]",
+              "RelativeToolTip": "Basic Windows Service\\MyFirstWinService.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:10:53.707Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Trraining c#\\CSharpProgrammingLevel2\\Windows Services\\Windows Services\\Program.cs",
               "RelativeDocumentMoniker": "Windows Services\\Program.cs",
               "ToolTip": "D:\\Trraining c#\\CSharpProgrammingLevel2\\Windows Services\\Windows Services\\Program.cs",
               "RelativeToolTip": "Windows Services\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T18:56:08.003Z",
               "EditorCaption": ""
