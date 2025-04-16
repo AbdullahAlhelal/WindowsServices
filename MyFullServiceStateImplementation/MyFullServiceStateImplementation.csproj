@@ -47,11 +47,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MyFullServiceStateImplementation.cs">
+    <Compile Include="clsMyFullServiceStateImplementation.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="MyFullServiceStateImplementation.Designer.cs">
-      <DependentUpon>MyFullServiceStateImplementation.cs</DependentUpon>
+    <Compile Include="clsMyFullServiceStateImplementation.Designer.cs">
+      <DependentUpon>clsMyFullServiceStateImplementation.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="ProjectInstaller.cs">

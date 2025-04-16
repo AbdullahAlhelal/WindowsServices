@@ -14,12 +14,23 @@ namespace MyFullServiceStateImplementation
         /// </summary>
         static void Main()
         {
-            ServiceBase[] ServicesToRun;
-            ServicesToRun = new ServiceBase[]
+            if ( Environment.UserInteractive )
             {
-                new MyFullServiceStateImplementation()
-            };
-            ServiceBase.Run(ServicesToRun);
+                // Running in console mode
+                Console.WriteLine("Running in console mode...");
+                clsMyFullServiceStateImplementation service = new clsMyFullServiceStateImplementation();
+                service.StartInConsole();
+            }
+            else
+            {
+                // Running as a Windows Service
+                ServiceBase[] ServicesToRun;
+                ServicesToRun = new ServiceBase[]
+                {
+                    new clsMyFullServiceStateImplementation()
+                };
+                ServiceBase.Run(ServicesToRun);
+            }
         }
     }
 }

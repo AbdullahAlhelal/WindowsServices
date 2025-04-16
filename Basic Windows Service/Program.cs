@@ -14,12 +14,26 @@ namespace Basic_Windows_Service
         /// </summary>
         static void Main()
         {
-            ServiceBase[] ServicesToRun;
-            ServicesToRun = new ServiceBase[]
+
+
+            if ( Environment.UserInteractive )
             {
-                new MyFirstWinService()
-            };
-            ServiceBase.Run(ServicesToRun);
+                
+                // Running in console mode
+                Console.WriteLine("Running in console mode...");
+                MyFirstWinService service = new MyFirstWinService();
+                service.StartInConsole();
+            }
+            else
+            {
+                // Running as a Windows Service
+                ServiceBase[] ServicesToRun;
+                ServicesToRun = new ServiceBase[]
+                {
+                    new MyFirstWinService()
+                };
+                ServiceBase.Run(ServicesToRun);
+            }
         }
     }
 }

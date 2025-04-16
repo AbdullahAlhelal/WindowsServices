@@ -1,6 +1,6 @@
 ﻿namespace MyFullServiceStateImplementation
 {
-    partial class MyFullServiceStateImplementation
+    partial class clsMyFullServiceStateImplementation
     {
         /// <summary> 
         /// Required designer variable.

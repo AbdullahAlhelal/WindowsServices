@@ -57,5 +57,14 @@ namespace Basic_Windows_Service
             string logMessage = $"[{DateTime.Now:yyyy-MM-dd HH:mm:ss}] Service Stopped\n";
             File.AppendAllText(logFilePath , logMessage);
         }
+        public void StartInConsole()
+        {
+            OnStart(null); // Trigger OnStart logic
+            Console.WriteLine("Press Enter to stop the service...");
+            Console.ReadLine(); // Wait for user input to simulate service stopping
+            OnStop(); // Trigger OnStop logic
+            Console.ReadKey();
+
+        }
     }
 }

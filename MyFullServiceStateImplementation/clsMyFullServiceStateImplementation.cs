@@ -14,12 +14,12 @@ using System.Configuration;
 
 namespace MyFullServiceStateImplementation
 {
-    public partial class MyFullServiceStateImplementation : ServiceBase
+    public partial class clsMyFullServiceStateImplementation : ServiceBase
     {
         private string logDirectory;
         private string logFilePath;
 
-        public MyFullServiceStateImplementation()
+        public clsMyFullServiceStateImplementation()
         {
             InitializeComponent();
          
@@ -95,7 +95,17 @@ namespace MyFullServiceStateImplementation
             LogServiceEvent("Service Shutdown due to system shutdown");
             // Add shutdown cleanup logic here
         }
+        // Simulate service behavior in console mode
+        public void StartInConsole()
+        {
+            OnStart(null); // Trigger OnStart logic
+            Console.WriteLine("Press Enter to stop the service...");
+            Console.ReadLine(); // Wait for user input to simulate service stopping
+            OnStop(); // Trigger OnStop logic
+            Console.ReadKey();
 
-        
+        }
+
+
     }
 }

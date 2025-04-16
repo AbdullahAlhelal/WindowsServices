@@ -1,0 +1,11 @@
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\Basic Windows Service\bin\Debug\MyFirstWinService.exe.config
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\Basic Windows Service\bin\Debug\MyFirstWinService.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\Basic Windows Service\bin\Debug\MyFirstWinService.pdb
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\Basic Windows Service\bin\Debug\MyFullServiceStateImplementation.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\Basic Windows Service\bin\Debug\MyFullServiceStateImplementation.pdb
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\Basic Windows Service\bin\Debug\MyFullServiceStateImplementation.exe.config
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\Basic Windows Service\obj\Debug\MyFirstWinService.csproj.AssemblyReference.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\Basic Windows Service\obj\Debug\MyFirstWinService.csproj.CoreCompileInputs.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\Basic Windows Service\obj\Debug\MyFirstW.A95DE4EB.Up2Date
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\Basic Windows Service\obj\Debug\MyFirstWinService.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\Basic Windows Service\obj\Debug\MyFirstWinService.pdb
