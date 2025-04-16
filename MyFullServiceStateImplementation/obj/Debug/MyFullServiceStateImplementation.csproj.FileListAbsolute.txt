@@ -1,0 +1,7 @@
+D:\Dropbox\Personal\Advices\2021\24 Windows Services\10 Understanding Service State Life Cycle\FullServiceState Implementation\MyFullServiceStateImplementation\obj\Debug\MyFullServiceStateImplementation.csproj.AssemblyReference.cache
+D:\Dropbox\Personal\Advices\2021\24 Windows Services\10 Understanding Service State Life Cycle\FullServiceState Implementation\MyFullServiceStateImplementation\obj\Debug\MyFullServiceStateImplementation.csproj.CoreCompileInputs.cache
+D:\Dropbox\Personal\Advices\2021\24 Windows Services\10 Understanding Service State Life Cycle\FullServiceState Implementation\MyFullServiceStateImplementation\bin\Debug\MyFullServiceStateImplementation.exe.config
+D:\Dropbox\Personal\Advices\2021\24 Windows Services\10 Understanding Service State Life Cycle\FullServiceState Implementation\MyFullServiceStateImplementation\bin\Debug\MyFullServiceStateImplementation.exe
+D:\Dropbox\Personal\Advices\2021\24 Windows Services\10 Understanding Service State Life Cycle\FullServiceState Implementation\MyFullServiceStateImplementation\bin\Debug\MyFullServiceStateImplementation.pdb
+D:\Dropbox\Personal\Advices\2021\24 Windows Services\10 Understanding Service State Life Cycle\FullServiceState Implementation\MyFullServiceStateImplementation\obj\Debug\MyFullServiceStateImplementation.exe
+D:\Dropbox\Personal\Advices\2021\24 Windows Services\10 Understanding Service State Life Cycle\FullServiceState Implementation\MyFullServiceStateImplementation\obj\Debug\MyFullServiceStateImplementation.pdb

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows Services", "Windows
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstWinService", "Basic Windows Service\MyFirstWinService.csproj", "{DB96BEE8-EA6C-40BC-B609-17F251A877FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFullServiceStateImplementation", "MyFullServiceStateImplementation\MyFullServiceStateImplementation.csproj", "{43B35921-3BFA-488F-8436-2C4DCDBF6D22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DB96BEE8-EA6C-40BC-B609-17F251A877FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB96BEE8-EA6C-40BC-B609-17F251A877FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB96BEE8-EA6C-40BC-B609-17F251A877FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43B35921-3BFA-488F-8436-2C4DCDBF6D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B35921-3BFA-488F-8436-2C4DCDBF6D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B35921-3BFA-488F-8436-2C4DCDBF6D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B35921-3BFA-488F-8436-2C4DCDBF6D22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
