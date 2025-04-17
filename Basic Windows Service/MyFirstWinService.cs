@@ -7,6 +7,7 @@ using System.IO;
 using System.Linq;
 using System.ServiceProcess;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Basic_Windows_Service
@@ -38,6 +39,10 @@ namespace Basic_Windows_Service
             // Append the log with the timestamp
             string logMessage = $"[{DateTime.Now:yyyy-MM-dd HH:mm:ss}] Service Started\n";
             File.AppendAllText(logFilePath , logMessage);
+
+            // on faliure
+            Thread workerThread = new Thread(WorkerTask);
+            workerThread.Start();
         }
     
 
@@ -59,6 +64,28 @@ namespace Basic_Windows_Service
             // Append the log with the timestamp
             string logMessage = $"[{DateTime.Now:yyyy-MM-dd HH:mm:ss}] Service Stopped\n";
             File.AppendAllText(logFilePath , logMessage);
+        }
+
+        private void WorkerTask()
+        {
+            try
+            {
+                // Simulate work
+                while ( true )
+                {
+                    //LogEvent("Service is running...");
+                    Thread.Sleep(5000);
+
+                    // Simulate a failure
+                    throw new Exception("Simulated error for testing recovery.");
+                }
+            }
+            catch ( Exception ex )
+            {
+                //LogEvent($"Error: {ex.Message}");
+                // Exit the process to simulate failure
+                Environment.Exit(1);
+            }
         }
         public void StartInConsole()
         {
