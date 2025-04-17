@@ -32,6 +32,9 @@ namespace Basic_Windows_Service
             }
 
 
+            // Set the current process priority to High
+            Process process = Process.GetCurrentProcess();
+            process.PriorityClass = ProcessPriorityClass.High;
             // Append the log with the timestamp
             string logMessage = $"[{DateTime.Now:yyyy-MM-dd HH:mm:ss}] Service Started\n";
             File.AppendAllText(logFilePath , logMessage);

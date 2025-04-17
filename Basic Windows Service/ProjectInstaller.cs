@@ -20,6 +20,13 @@ namespace Basic_Windows_Service
         {
             InitializeComponent();
 
+
+            //// Use NetworkService account
+            //_serviceProcessInstaller = new ServiceProcessInstaller
+            //{
+            //    Account = ServiceAccount.NetworkService
+            //};
+
             // Configure the Service Process Installer
             _serviceProcessInstaller = new ServiceProcessInstaller
             {
