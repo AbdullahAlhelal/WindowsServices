@@ -1,0 +1,7 @@
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\FileMonitor\obj\Debug\FileMonitoringService.csproj.AssemblyReference.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\FileMonitor\obj\Debug\FileMonitoringService.csproj.CoreCompileInputs.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\FileMonitor\bin\Debug\FileMonitoringService.exe.config
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\FileMonitor\bin\Debug\FileMonitoringService.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\FileMonitor\bin\Debug\FileMonitoringService.pdb
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\FileMonitor\obj\Debug\FileMonitoringService.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\FileMonitor\obj\Debug\FileMonitoringService.pdb

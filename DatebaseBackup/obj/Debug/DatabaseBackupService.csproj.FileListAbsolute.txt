@@ -1,0 +1,7 @@
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\DatebaseBackup\obj\Debug\DatabaseBackupService.csproj.AssemblyReference.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\DatebaseBackup\obj\Debug\DatabaseBackupService.csproj.CoreCompileInputs.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\DatebaseBackup\bin\Debug\DatabaseBackupService.exe.config
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\DatebaseBackup\bin\Debug\DatabaseBackupService.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\DatebaseBackup\bin\Debug\DatabaseBackupService.pdb
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\DatebaseBackup\obj\Debug\DatabaseBackupService.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Windows Services\DatebaseBackup\obj\Debug\DatabaseBackupService.pdb
